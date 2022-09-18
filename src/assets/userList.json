@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "nickName": "小明",
+    "role":[
+      {
+        "role": 1,
+        "roleName": "管理员"
+      },
+      {
+        "role": 2,
+        "roleName": "普通用户"
+      }
+    ],
+    "uname": "小明"
+  },
+  {
+    "id": 2,
+    "nickName": "小红",
+    "role":[
+      {
+        "role": 1,
+        "roleName": "管理员"
+      }
+    ],
+    "uname": "小红"
+  },
+  {
+    "id": 3,
+    "nickName": "小天",
+    "role":[
+      {
+        "role": 2,
+        "roleName": "普通用户"
+      }
+    ],
+    "uname": "小天"
+  },
+  {
+    "id": 4,
+    "nickName": "小峰",
+    "role":[
+      {
+        "role": 2,
+        "roleName": "普通用户"
+      }
+    ],
+    "uname": "小峰"
+  },
+  {
+    "id": 5,
+    "nickName": "小刚",
+    "role":[
+      {
+        "role": 1,
+        "roleName": "管理员"
+      }
+    ],
+    "uname": "小刚"
+  },
+  {
+    "id": 6,
+    "nickName": "admin",
+    "role":[
+      {
+        "role": 1,
+        "roleName": "管理员"
+      },
+      {
+        "role": 2,
+        "roleName": "普通用户"
+      }
+    ],
+    "uname": "admin"
+  }
+]

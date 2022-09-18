@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "uname": "ShangJian1",
+    "password": 123456,
+    "token": "admin_token__1"
+  },
+  {
+    "id": 2,
+    "uname": "ShangJian2",
+    "password": 123456,
+    "token": "admin_token__2"
+  },
+  {
+    "id": 3,
+    "uname": "ShangJian3",
+    "password": 123456,
+    "token": "admin_token__3"
+  },
+  {
+    "id": 4,
+    "uname": "ShangJian4",
+    "password": 123456,
+    "token": "admin_token__4"
+  }
+]
